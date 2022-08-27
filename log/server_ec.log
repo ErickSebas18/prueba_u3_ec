@@ -1,0 +1,37 @@
+[2022-08-26 19:01:58] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:01:58] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:03:42] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:03:42] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:03:42] [ INFO ] [PruebaU3EcApplication:66] ProductoSimple [codigoBarras=132164, nombre=Sabanas, stock=40]
+[2022-08-26 19:11:22] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:11:22] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:17:59] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:17:59] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:21:54] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:21:54] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:23:32] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:23:32] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:23:32] [ INFO ] [PruebaU3EcApplication:66] com.uce.edu.demo.repository.modelo.Producto@33327f48
+[2022-08-26 19:24:33] [ INFO ] [PruebaU3EcApplication:44] Se ha insertado el producto 1
+[2022-08-26 19:24:33] [ INFO ] [PruebaU3EcApplication:55] Se ha insertado el producto 2
+[2022-08-26 19:24:33] [ INFO ] [PruebaU3EcApplication:66] Producto [id=4, codigoBarras=132164, nombre=Sabanas, categoria=Hogar, stock=40, precio=20.00]
+[2022-08-26 19:49:52] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:49:52] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 19:51:09] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:51:09] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 19:51:35] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:51:35] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 19:52:48] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:52:48] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 19:53:50] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:53:50] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 19:54:32] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:54:32] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 19:55:08] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 19:55:08] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 20:00:12] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 20:00:12] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 20:01:19] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 20:01:19] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
+[2022-08-26 20:02:42] [ INFO ] [PruebaU3EcApplication:52] Se ha insertado el producto 1
+[2022-08-26 20:02:42] [ INFO ] [PruebaU3EcApplication:63] Se ha insertado el producto 2
